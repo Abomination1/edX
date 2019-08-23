@@ -14,3 +14,15 @@ man -
 top -> display linux commands
 htop -> top with the design
 vim -> :q - exit vim
+
+
+pwd -> print working directory
+ls -> list files
+realpath ->>
+file #file -> describ type
+which -> full path of the
+realpath -> resolve real path
+
+CTRL D -> end of typing in linux
+ cat etc | more -> scrol thrue more
+  
