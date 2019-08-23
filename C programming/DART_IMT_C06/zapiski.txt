@@ -1,0 +1,16 @@
+History of UNIX
+whoami -> usernam
+id, id -ui -> print name wirh ID
+echo $0 -> print shell , interpret and do some stuff
+hostname --h -> hosntame compputer
+uname , uname -a, -> print user OS
+history
+uptime
+cal -> show callendar
+date -> show data
+man -
+
+#INTERACTIVE COMMANDS
+top -> display linux commands
+htop -> top with the design
+vim -> :q - exit vim
